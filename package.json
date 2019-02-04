@@ -14,7 +14,8 @@
   "author": "aviya",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "moment": "^2.24.0"
   },
   "devDependencies": {
     "expect": "^24.0.0",
